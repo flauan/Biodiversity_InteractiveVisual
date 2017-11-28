@@ -331,5 +331,5 @@ function optionChanged(sampleid){
   setTimeout("refreshSample()", 2000);      
 }
 console.log(names);
-init("BB_940"); //Default sample upon loading
+init();
 
